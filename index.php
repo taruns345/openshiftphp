@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>PHP 2022  Test</h1>
-		<p><b>Tarun amdocsna18 Session </b></p>
+		<p><b>Tarun amdocsna18 Session - Enjoying day 4 training </b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information VERSION 3 </h2> 
